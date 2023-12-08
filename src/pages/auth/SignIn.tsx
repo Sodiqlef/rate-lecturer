@@ -221,8 +221,8 @@ const SignIn = () => {
 
 
           <div className="w-full  justify-center items-center text-center flex flex-col text-[11px] mt-3">
-            Rate My Professors is designed for and targeted to U.S. audiences
-            and is governed by and operated in accordance with U.S. laws
+            Rate My Professors is designed for and targeted to NGA. audiences
+            and is governed by and operated in accordance with NGA. laws
           </div>
 
           <div className="my-7">

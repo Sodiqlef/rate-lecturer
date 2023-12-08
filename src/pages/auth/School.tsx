@@ -160,7 +160,7 @@ const School = () => {
 
             
           <div className="w-full  justify-center items-center text-center flex flex-col text-[12px] mt-14">
-          By clicking 'Continue' you agree to the Terms of Use and our Privacy Policy. RateMyProfessors is designed for and targeted to U.S. audiences and is governed by and operated in accordance with U.S. laws.
+          By clicking 'Continue' you agree to the Terms of Use and our Privacy Policy. RateMyProfessors is designed for and targeted to NGA. audiences and is governed by and operated in accordance with NGA. laws.
           </div>
 
           <button className="w-full h-[45px] duration-[350ms] rounded-[25px] border border-[blue] mt-[30px] flex justify-center items-center text-white bg-black hover:cursor-pointer hover:scale-[1.1] mb-4 font-[700] text-[13px]"
